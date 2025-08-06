@@ -105,5 +105,3 @@ is raised.
     ValueError: invalid int must be greater than 0
 
 Both ``name`` and ``value`` must be provided. Otherwise, a TypeError is raised.
-
-::
